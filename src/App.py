@@ -1,8 +1,9 @@
-import pygame
 import sys
 import time
+
+import pygame
+
 from pygame.locals import *
-from random import randint
 
 from Grid import Grid
 from GridDisplay import GridDisplay
