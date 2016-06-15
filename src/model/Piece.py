@@ -1,3 +1,4 @@
+
 class Piece:
 
     def __eq__(self, other):
